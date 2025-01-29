@@ -1,0 +1,7 @@
+/target
+/priv
+.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
