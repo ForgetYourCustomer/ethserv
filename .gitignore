@@ -1,4 +1,5 @@
 /target
+/pers/*
 /priv
 .env
 .env.local
